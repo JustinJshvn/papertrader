@@ -81,7 +81,7 @@ python -m papertrader.app
 - **ENTER** - Submit limit order  
 
 ### Export
-- **R** — Export:
+- **R** - Export:
   - `trades.csv` (trade history)  
   - `equity.png` (equity curve)
 
