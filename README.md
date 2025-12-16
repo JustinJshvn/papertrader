@@ -63,22 +63,22 @@ python -m papertrader.app
 ## Controls
 
 ### Market Replay
-- **SPACE** — Play / Pause market replay  
-- **RIGHT ARROW** — Advance one time step (one candle)  
-- **+ / =** — Increase replay speed  
-- **-** — Decrease replay speed  
+- **SPACE** - Play / Pause market replay  
+- **RIGHT ARROW** - Advance one time step (one candle)  
+- **+ / =** - Increase replay speed  
+- **-** - Decrease replay speed  
 
 ### Trading Actions
-- **B** — Market Buy (quantity = 1)  
-- **S** — Market Sell (quantity = 1)  
-- **Shift + B** — Market Buy (quantity = 5)  
-- **Shift + S** — Market Sell (quantity = 5)  
+- **B** - Market Buy (quantity = 1)  
+- **S** - Market Sell (quantity = 1)  
+- **Shift + B** - Market Buy (quantity = 5)  
+- **Shift + S** - Market Sell (quantity = 5)  
 
 ### Limit Orders
-- **L** — Enter limit order input mode  
-- **0–9 / .** — Input limit price  
-- **BACKSPACE** — Delete last character  
-- **ENTER** — Submit limit order  
+- **L** - Enter limit order input mode  
+- **0–9 / .** - Input limit price  
+- **BACKSPACE** - Delete last character  
+- **ENTER** - Submit limit order  
 
 ### Export
 - **R** — Export:
