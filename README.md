@@ -88,6 +88,7 @@ python -m papertrader.app
 ---
 
 ## Project Structure
+```
 papertrader/
 app.py — Application entry point
 datasource.py — Market data loading (CSV / synthetic)
@@ -103,6 +104,7 @@ tests/
 test_portfolio.py — Portfolio logic tests
 test_broker.py — Broker execution tests
 test_metrics.py — Performance metric tests
+```
 
 ---
 
